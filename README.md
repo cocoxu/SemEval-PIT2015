@@ -1,19 +1,17 @@
 
 
-SemEval-2015 Task 1: Paraphrase and Semantic Similarity in Twitter (PIT)
+# SemEval-2015 Task 1: Paraphrase and Semantic Similarity in Twitter (PIT)
   
 Updated: Jan 15, 2015 (packed up after the official evaluation)
 
-= ORGANIZERS =
+## ORGANIZERS 
 
   * Wei Xu, University of Pennsylvania
   * Chris Callison-Burch, University of Pennsylvania
   * Bill Dolan, Microsoft Research
 
 
-= REFERENCES = 
-
-  Please cite the following papers if you use the data or code accordingly:
+## RELEVANT PAPERS 
 
   paper about the dataset, baselines, and the MultiP model (multiple-instance learning paraphrase):
    
@@ -50,7 +48,7 @@ Updated: Jan 15, 2015 (packed up after the official evaluation)
 	}
 
 
-= TRAIN/DEV/TEST DATA =
+## TRAIN/DEV/TEST DATA 
   
 
   The dataset contains the following files:
@@ -93,7 +91,7 @@ Updated: Jan 15, 2015 (packed up after the official evaluation)
   We discarded the debatable cases in the evaluation of Paraphrase Identification task,
   but kept them in the evaluation of Semantic Similarity task.  
 
-= EVALUATION = 
+## EVALUATION  
 
   There are two scripts for the official evaluation:
   
@@ -116,7 +114,7 @@ Updated: Jan 15, 2015 (packed up after the official evaluation)
     
 
           
-= BASELINES & STATE-OF-THE-ART SYSTEMS =
+## BASELINES & STATE-OF-THE-ART SYSTEMS 
   
   There are scripts for two baselines: 
   
