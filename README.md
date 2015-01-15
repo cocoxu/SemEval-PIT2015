@@ -62,8 +62,7 @@ Updated: Jan 15, 2015 (packed up after the official evaluation)
     
      Topic_Id | Topic_Name | Sent_1 | Sent_2 | Label | Sent_1_tag | Sent_2_tag |
  
-  The "Trending_Topic_Name" are the names of trends provided by Twitter, which are
-  not hashtags.
+  The "Topic_Name" are the names of trends provided by Twitter, which are not hashtags.
   
   The "Sent_1" and "Sent_2" are the two sentences, which are not necessarily full 
   tweets. Tweets were tokenized by Brendan O'Connor et al.'s toolkit (ICWSM 2010) 
