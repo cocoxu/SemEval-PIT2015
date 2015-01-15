@@ -62,7 +62,7 @@ Updated: Jan 15, 2015 (packed up after the official evaluation)
 
   Both data files come in the tab-separated format. Each line contains 7 columns:
     
-     Label | Topic_Id | Topic_Name | Sent_1 | Sent_2 | Sent_1_tag | Sent_2_tag |
+     Topic_Id | Topic_Name | Sent_1 | Sent_2 | Label | Sent_1_tag | Sent_2_tag |
  
   The "Trending_Topic_Name" are the names of trends provided by Twitter, which are
   not hashtags.
