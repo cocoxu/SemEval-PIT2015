@@ -85,7 +85,7 @@ Updated: Jan 15, 2015 (packed up after the official evaluation)
     
     paraphrases: 4 or 5
     non-paraphrases: 0 or 1 or 2  
-    debatable: 3   (which we discarded in Paraphrase Identification evaluation)
+    debatable: 3   which we discarded in Paraphrase Identification evaluation
 
   We discarded the debatable cases in the evaluation of Paraphrase Identification task,
   but kept them in the evaluation of Semantic Similarity task.  
