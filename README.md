@@ -84,9 +84,9 @@ Updated: Jan 15, 2015 (packed up after the official evaluation)
   We would suggest map them to binary labels as follows:
     
     paraphrases: 4 or 5
-    non-paraphrases: 3
-    debatable: 0 or 1 or 2  (which you may discard if training binary classifier)
-  
+    debatable: 0 or 1 or 2  
+    non-paraphrases: 3   (which we discarded in the Paraphrase Identification evaluation)
+
   We discarded the debatable cases in the evaluation of Paraphrase Identification task,
   but kept them in the evaluation of Semantic Similarity task.  
 
