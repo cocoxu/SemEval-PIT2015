@@ -4,7 +4,7 @@
   
 Updated: Jan 15, 2015 (packed up after the official evaluation)
 
-**Please email xwe@cis.upenn.edu for the full dataset. Only sample data is included in this Github repository. 
+**Please email xwe@cis.upenn.edu for the full dataset. Only sample data is included in this Github repository.**
 
 ## ORGANIZERS 
 
