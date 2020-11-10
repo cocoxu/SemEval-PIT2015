@@ -2,9 +2,9 @@
 
 # SemEval-2015 Task 1: Paraphrase and Semantic Similarity in Twitter (PIT)
   
-Updated: Jan 15, 2015 (packed up after the official evaluation)
+Updated: Nov 10, 2020 
 
-**Please email xwe@cis.upenn.edu for the full dataset. Only sample data is included in this Github repository.**
+**The full pack of data and code for the official evaluation is at: .data/SemEval-PIT2015-github.zip**
 
 ## ORGANIZERS 
 
@@ -18,35 +18,29 @@ Updated: Jan 15, 2015 (packed up after the official evaluation)
   paper about the dataset, baselines, and the MultiP model (multiple-instance learning paraphrase):
    
 	@article{Xu-EtAl-2014:TACL,
-	  author =  {Wei Xu and Alan Ritter and Chris Callison-Burch and William B. Dolan and Yangfeng Ji},
-	  title =   {Extracting Lexically Divergent Paraphrases from {Twitter}},
+	  author = {Xu, Wei and Ritter, Alan and Callison-Burch, Chris and Dolan, William B. and Ji, Yangfeng"}
+	  title = {Extracting Lexically Divergent Paraphrases from {Twitter}},
 	  journal = {Transactions of the Association for Computational Linguistics},
-	  volume =  {},
-	  number =  {},
+	  volume =  {2},
 	  year =    {2014},
-	  pages = {},
+	  pages = {435--448},
 	  publisher = {Association for Computational Linguistics},
-	  url = {http://www.cis.upenn.edu/~xwe/files/tacl2014-extracting-paraphrases-from-twitter.pdf}
-	}
-
-   paper about the dataset:
-
-	@phdthesis{xu2014data,
-	  author = {Xu, Wei},
-	  title = {Data-Drive Approaches for Paraphrasing Across Language Variations},
-	  school = {Department of Computer Science, New York University},
-	  year = {2014},
-	  url = {http://www.cis.upenn.edu/~xwe/files/thesis-wei.pdf}
-	}			    
-
+	  url = {https://www.aclweb.org/anthology/Q14-1034}, 
+	  doi = {10.1162/tacl_a_00194}
+	}		    
 
    overview paper of the shared task:
 
 	@inproceedings{xu2015semeval,
-	  author    = {Wei Xu and Chris Callison-Burch and William B. Dolan},
+	  author    = {Xu, Wei and Callison-Burch, Chris and Dolan, Bill},
 	  title     = {{SemEval-2015 Task} 1: Paraphrase and Semantic Similarity in {Twitter} ({PIT})},
-	  booktitle = {Proceedings of the 9th International Workshop on Semantic Evaluation (SemEval)},
-	  year      = {2015}
+	  booktitle = {Proceedings of the 9th International Workshop on Semantic Evaluation ({S}em{E}val 2015)},
+	  year      = {2015},
+	  address.  = {Denver, Colorado},
+          publisher = {Association for Computational Linguistics},
+          url = {https://www.aclweb.org/anthology/S15-2001},
+          doi = {10.18653/v1/S15-2001},
+          pages = {1--11},
 	}
 
 
